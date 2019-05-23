@@ -79,7 +79,7 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["苏小糖 ❤ Orange", "Java 诞生日", "节日快乐", "一路前行", "感谢有你 ♡"],
+      strings: ["苏小糖", "Java", "Web", "UI", "♡"],
       typeSpeed: 100,
       loop: true,
     });
