@@ -79,7 +79,7 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["花姐", "前端", "后端", "全栈.", "爱媳妇儿"],
+      strings: ["苏小糖 ❤ Orange", "Java 诞生日", "节日快乐", "一路前行", "感谢有你 ♡"],
       typeSpeed: 100,
       loop: true,
     });
